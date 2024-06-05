@@ -1,0 +1,10 @@
+#aqua {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    width: 300px;
+    padding-left: 666px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
